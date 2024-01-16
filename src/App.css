@@ -1,0 +1,108 @@
+#one{
+  background-color:green;
+  border-radius: 4px;
+  color: white;
+  padding: 2px 10px;
+  border-color:none;
+  width:20%;
+  margin-top:2px;
+  margin-right:50%;
+  margin-left:6%;
+}
+.bar {
+  background-color:Green;
+  color: white;
+  padding: 10px 30px;
+  border-radius: 4px;
+  position:fixed;
+  right:20px;
+}
+#two{
+  padding-top:10px;
+  padding-bottom:10px;
+margin-top:20%;
+margin-left:45%;
+margin-right:40%;
+margin-bottom:20%;
+background-color:darkmagenta;
+color:white;
+border-radius:5px;
+border-style:none;
+}
+#dd{
+  margin-top:5px;
+  margin-left:2px;
+}
+#bu{
+  background-color:blue;
+  border-radius: 4px;
+  color: white;
+  padding: 2px 2px;
+  border-color:none;
+  width:20%;
+ 
+}
+#tt{
+  margin-top:50px;
+  margin-left:50px;
+ 
+}
+
+.three{
+  margin-top:30px;
+  margin-left:40%;
+  margin-right:30%;
+background-color:lightgray;
+height:60%;
+width:30%;
+border-radius:4px; 
+}
+#im{
+  height:50%;
+  width:50%;
+}
+#four{
+padding-top:-1px;
+padding-left:8px;
+padding-right:8px;
+}
+.five{
+  margin-left:40px;
+  width:50%;
+}
+#five{
+  margin-left:50px;
+  width:50%;
+}
+#six{
+  margin-left:70px;
+  width:50%;
+}
+#seven{
+  margin-left:10px;
+  width:50%;
+}
+#eight{
+  margin-left:35px;
+  width:50%;
+}
+#nine{
+  margin-left:10px;
+  width:50%;
+}
+#ten{
+  margin-left:8px;
+  width:50%;
+}
+#eleven{
+  margin-left:50px;
+  width:50%;
+}
+#twelve{
+  margin-left:30px;
+  width:50%;
+}
+.ten{
+  margin-left:20px;
+}
+
